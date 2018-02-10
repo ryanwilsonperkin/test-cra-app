@@ -8,6 +8,7 @@ it('renders without crashing', () => {
   ReactDOM.unmountComponentAtNode(div);
 });
 
-it('should fail', () => {
+it('should fail twice', () => {
   expect(true).toBe(false);
+  expect(false).toBe(true);
 });
