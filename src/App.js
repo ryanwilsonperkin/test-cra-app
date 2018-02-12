@@ -15,4 +15,7 @@ class App extends Component {
   }
 }
 
+export const x = [
+'dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog','dog'];
+
 export default App;
